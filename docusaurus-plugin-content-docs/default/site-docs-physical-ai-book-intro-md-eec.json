@@ -1,0 +1,30 @@
+{
+  "id": "physical-ai-book/intro",
+  "title": "Introduction to Physical AI",
+  "description": "Welcome, future architects of physical intelligence! This chapter introduces you to Physical AI and explores how AI moves beyond digital environments to interact with the real, physical world.",
+  "source": "@site/docs/physical-ai-book/intro.md",
+  "sourceDirName": "physical-ai-book",
+  "slug": "/physical-ai-book/intro",
+  "permalink": "/docs/physical-ai-book/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/physical-ai-book/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Introduction to Physical AI",
+    "slug": "/physical-ai-book/intro",
+    "sidebar_label": "Introduction",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial Intro",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Humanoid",
+    "permalink": "/docs/physical-ai-book/humanoid"
+  }
+}

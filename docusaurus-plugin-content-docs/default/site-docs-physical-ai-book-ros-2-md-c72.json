@@ -1,0 +1,30 @@
+{
+  "id": "physical-ai-book/ros2",
+  "title": "ROS 2 Framework",
+  "description": "In this chapter, we dive into the Robot Operating System 2 (ROS 2) framework. ROS 2 is the backbone of humanoid robotics, providing a distributed, reliable, and modular architecture for controlling robots.",
+  "source": "@site/docs/physical-ai-book/ros2.md",
+  "sourceDirName": "physical-ai-book",
+  "slug": "/physical-ai-book/ros2",
+  "permalink": "/docs/physical-ai-book/ros2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/physical-ai-book/ros2.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "title": "ROS 2 Framework",
+    "slug": "/physical-ai-book/ros2",
+    "sidebar_label": "ROS 2",
+    "sidebar_position": 11
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Simulation",
+    "permalink": "/docs/physical-ai-book/simulation"
+  },
+  "next": {
+    "title": "Project",
+    "permalink": "/docs/physical-ai-book/project"
+  }
+}

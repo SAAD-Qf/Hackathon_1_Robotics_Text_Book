@@ -1,0 +1,30 @@
+{
+  "id": "physical-ai-book/vision",
+  "title": "Vision & Robot Perception",
+  "description": "Robot vision allows humanoids to see and interpret their environment. It combines cameras, sensors, and AI algorithms to enable tasks like object detection, navigation, and interaction.",
+  "source": "@site/docs/physical-ai-book/vision.md",
+  "sourceDirName": "physical-ai-book",
+  "slug": "/physical-ai-book/vision",
+  "permalink": "/docs/physical-ai-book/vision",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/physical-ai-book/vision.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "title": "Vision & Robot Perception",
+    "slug": "/physical-ai-book/vision",
+    "sidebar_label": "Vision",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Locomotion",
+    "permalink": "/docs/physical-ai-book/locomotion"
+  },
+  "next": {
+    "title": "Perception",
+    "permalink": "/docs/physical-ai-book/perception"
+  }
+}

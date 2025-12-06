@@ -1,0 +1,30 @@
+{
+  "id": "physical-ai-book/humanoid",
+  "title": "Humanoid Robotics",
+  "description": "Welcome to the world of Humanoid Robotics! In this chapter, we explore robots that mimic human form and behavior, and learn how AI enables them to perceive, plan, and act in real-world environments.",
+  "source": "@site/docs/physical-ai-book/humanoid.md",
+  "sourceDirName": "physical-ai-book",
+  "slug": "/physical-ai-book/humanoid",
+  "permalink": "/docs/physical-ai-book/humanoid",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/physical-ai-book/humanoid.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Humanoid Robotics",
+    "slug": "/physical-ai-book/humanoid",
+    "sidebar_label": "Humanoid",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/physical-ai-book/intro"
+  },
+  "next": {
+    "title": "Sensors",
+    "permalink": "/docs/physical-ai-book/sensors"
+  }
+}

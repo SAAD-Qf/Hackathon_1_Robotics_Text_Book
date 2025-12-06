@@ -1,0 +1,30 @@
+{
+  "id": "physical-ai-book/locomotion",
+  "title": "Locomotion & Walking",
+  "description": "Locomotion is how a humanoid robot moves from one place to another. It combines actuation, balance, sensors, and control algorithms to achieve walking, running, or dynamic movements.",
+  "source": "@site/docs/physical-ai-book/locomotion.md",
+  "sourceDirName": "physical-ai-book",
+  "slug": "/physical-ai-book/locomotion",
+  "permalink": "/docs/physical-ai-book/locomotion",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/physical-ai-book/locomotion.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "Locomotion & Walking",
+    "slug": "/physical-ai-book/locomotion",
+    "sidebar_label": "Locomotion",
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Actuators",
+    "permalink": "/docs/physical-ai-book/actuators"
+  },
+  "next": {
+    "title": "Vision",
+    "permalink": "/docs/physical-ai-book/vision"
+  }
+}

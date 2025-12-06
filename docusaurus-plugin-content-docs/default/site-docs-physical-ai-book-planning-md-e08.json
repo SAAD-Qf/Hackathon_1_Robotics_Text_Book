@@ -1,0 +1,30 @@
+{
+  "id": "physical-ai-book/planning",
+  "title": "Motion Planning",
+  "description": "Motion Planning is the process of determining how a humanoid robot moves from one position to another while avoiding obstacles and respecting its physical constraints.",
+  "source": "@site/docs/physical-ai-book/planning.md",
+  "sourceDirName": "physical-ai-book",
+  "slug": "/physical-ai-book/planning",
+  "permalink": "/docs/physical-ai-book/planning",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/physical-ai-book/planning.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "Motion Planning",
+    "slug": "/physical-ai-book/planning",
+    "sidebar_label": "Planning",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Perception",
+    "permalink": "/docs/physical-ai-book/perception"
+  },
+  "next": {
+    "title": "Control",
+    "permalink": "/docs/physical-ai-book/control"
+  }
+}

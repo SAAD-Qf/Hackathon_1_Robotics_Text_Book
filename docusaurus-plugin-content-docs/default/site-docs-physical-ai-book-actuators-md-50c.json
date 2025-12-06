@@ -1,0 +1,30 @@
+{
+  "id": "physical-ai-book/actuators",
+  "title": "Motors & Actuators",
+  "description": "Actuators are the muscles of robots. They convert electrical signals from controllers into mechanical movement, enabling robots to walk, grasp, or manipulate objects.",
+  "source": "@site/docs/physical-ai-book/actuators.md",
+  "sourceDirName": "physical-ai-book",
+  "slug": "/physical-ai-book/actuators",
+  "permalink": "/docs/physical-ai-book/actuators",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/physical-ai-book/actuators.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "Motors & Actuators",
+    "slug": "/physical-ai-book/actuators",
+    "sidebar_label": "Actuators",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sensors",
+    "permalink": "/docs/physical-ai-book/sensors"
+  },
+  "next": {
+    "title": "Locomotion",
+    "permalink": "/docs/physical-ai-book/locomotion"
+  }
+}

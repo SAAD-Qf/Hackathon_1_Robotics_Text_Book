@@ -1,0 +1,26 @@
+{
+  "id": "physical-ai-book/project",
+  "title": "Project Implementation",
+  "description": "In this final chapter, you will combine all modules to implement a fully functional autonomous humanoid robot. This project integrates Physical AI principles, ROS 2, Gazebo/Unity simulation, NVIDIA Isaac AI, motion planning, control systems, perception, and VLA (Vision-Language-Action).",
+  "source": "@site/docs/physical-ai-book/project.md",
+  "sourceDirName": "physical-ai-book",
+  "slug": "/physical-ai-book/project",
+  "permalink": "/docs/physical-ai-book/project",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/physical-ai-book/project.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "title": "Project Implementation",
+    "slug": "/physical-ai-book/project",
+    "sidebar_label": "Project",
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROS 2",
+    "permalink": "/docs/physical-ai-book/ros2"
+  }
+}

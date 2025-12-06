@@ -1,0 +1,30 @@
+{
+  "id": "physical-ai-book/sensors",
+  "title": "Sensors in Robotics",
+  "description": "Sensors are the eyes, ears, and skin of robots. They allow humanoid robots to perceive the environment, understand their own state, and make decisions based on real-world data.",
+  "source": "@site/docs/physical-ai-book/sensors.md",
+  "sourceDirName": "physical-ai-book",
+  "slug": "/physical-ai-book/sensors",
+  "permalink": "/docs/physical-ai-book/sensors",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/physical-ai-book/sensors.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Sensors in Robotics",
+    "slug": "/physical-ai-book/sensors",
+    "sidebar_label": "Sensors",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Humanoid",
+    "permalink": "/docs/physical-ai-book/humanoid"
+  },
+  "next": {
+    "title": "Actuators",
+    "permalink": "/docs/physical-ai-book/actuators"
+  }
+}

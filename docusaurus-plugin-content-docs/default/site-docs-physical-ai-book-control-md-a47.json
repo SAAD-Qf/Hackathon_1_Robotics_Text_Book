@@ -1,0 +1,30 @@
+{
+  "id": "physical-ai-book/control",
+  "title": "Control Systems",
+  "description": "Control Systems manage how a humanoid robot executes movements accurately, stably, and safely. They bridge the gap between planned motion and real-world execution.",
+  "source": "@site/docs/physical-ai-book/control.md",
+  "sourceDirName": "physical-ai-book",
+  "slug": "/physical-ai-book/control",
+  "permalink": "/docs/physical-ai-book/control",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/physical-ai-book/control.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "title": "Control Systems",
+    "slug": "/physical-ai-book/control",
+    "sidebar_label": "Control",
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Planning",
+    "permalink": "/docs/physical-ai-book/planning"
+  },
+  "next": {
+    "title": "Simulation",
+    "permalink": "/docs/physical-ai-book/simulation"
+  }
+}

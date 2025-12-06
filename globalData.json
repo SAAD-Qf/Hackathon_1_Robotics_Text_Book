@@ -1,0 +1,93 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "physical-ai-book/actuators",
+              "path": "/docs/physical-ai-book/actuators",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "physical-ai-book/control",
+              "path": "/docs/physical-ai-book/control",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "physical-ai-book/humanoid",
+              "path": "/docs/physical-ai-book/humanoid",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "physical-ai-book/intro",
+              "path": "/docs/physical-ai-book/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "physical-ai-book/locomotion",
+              "path": "/docs/physical-ai-book/locomotion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "physical-ai-book/perception",
+              "path": "/docs/physical-ai-book/perception",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "physical-ai-book/planning",
+              "path": "/docs/physical-ai-book/planning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "physical-ai-book/project",
+              "path": "/docs/physical-ai-book/project",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "physical-ai-book/ros2",
+              "path": "/docs/physical-ai-book/ros2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "physical-ai-book/sensors",
+              "path": "/docs/physical-ai-book/sensors",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "physical-ai-book/simulation",
+              "path": "/docs/physical-ai-book/simulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "physical-ai-book/vision",
+              "path": "/docs/physical-ai-book/vision",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
