@@ -5,7 +5,7 @@
  */
 export default {
   "title": "Physical Humanoid Robotics Book",
-  "tagline": "By Saad Qureshi ",
+  "tagline": "Created By Saad Qureshi",
   "favicon": "img/favicon.ico",
   "future": {
     "v4": {
@@ -77,7 +77,7 @@ export default {
       "disableSwitch": false
     },
     "navbar": {
-      "title": "My Site",
+      "title": "Physical Humanoid Robotics TextBook",
       "logo": {
         "alt": "My Site Logo",
         "src": "img/logo.svg"
@@ -150,8 +150,8 @@ export default {
     "prism": {
       "theme": {
         "plain": {
-          "color": "#393A34",
-          "backgroundColor": "#f6f8fa"
+          "color": "#020201ff",
+          "backgroundColor": "#0b63bbff"
         },
         "styles": [
           {
