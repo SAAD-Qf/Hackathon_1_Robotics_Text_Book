@@ -4,7 +4,7 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Physical Humanoid Robotics Book",
+  "title": "Physical Humanoid Robotics Text Book",
   "tagline": "Created By Saad Qureshi",
   "favicon": "img/favicon.ico",
   "future": {
