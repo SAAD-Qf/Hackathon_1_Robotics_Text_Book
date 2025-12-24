@@ -75,7 +75,7 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'My Site',
+      title: 'Physical Humanoid Robotics Book',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -89,8 +89,8 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          href: '/Rag_chatbot',
+          label: '🤖',
           position: 'right',
         },
       ],
