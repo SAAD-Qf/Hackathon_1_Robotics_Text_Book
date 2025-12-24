@@ -109,8 +109,9 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Tutorial",
-              "to": "/docs/intro"
+              href: '/Rag_chatbot',
+              label: '🤖',
+              position: 'right',
             }
           ]
         },
