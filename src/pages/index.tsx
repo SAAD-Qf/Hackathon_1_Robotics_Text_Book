@@ -24,13 +24,6 @@ function HomepageHeader() {
             Read Now 📗
           </Link>
         </div>
-            <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/Rag_chatbot">
-            🤖
-          </Link>
-        </div>
       </div>
     </header>
   );
